@@ -1,0 +1,32 @@
+nav {
+  margin-top: 39px;
+  margin-left: 46px;
+  /* display: flex; */
+}
+.GoCorona {
+  display: flex;
+  align-items: center;
+  font-family: Rubik;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: left;
+
+  font-family: Rubik One;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: left;
+
+}
+
+.Home {
+margin-left: 481px;
+}
+.Features,.Support,.Contact{
+  margin-left: 40px;
+}
